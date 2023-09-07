@@ -8,6 +8,8 @@ termux-toast -b white -c black "@qappevox (github)"
 	sleep 1
  
 apt update && apt upgrade -y
+    pkg install python
+    pkg install php
     git clone https://github.com/Ignitetch/AdvPhishing
     git clone https://github.com/kayaroot/anonimsms
     git clone https://github.com/TheReaper167/Malicious
@@ -25,7 +27,7 @@ apt update && apt upgrade -y
     git clone https://github.com/grafov/hulk.git
     git clone https://github.com/AngelSecurityTeam/Cam-Hackers
     git clone https://github.com/htr-tech/bash2mp4
-    git clone https://gitlab.com/tingirifistik/enough.git
+    https://github.com/tingirifistik/Enough-Reborn
 
 }
 downloadPackage
