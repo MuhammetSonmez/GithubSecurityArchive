@@ -27,7 +27,7 @@ apt update && apt upgrade -y
     git clone https://github.com/grafov/hulk.git
     git clone https://github.com/AngelSecurityTeam/Cam-Hackers
     git clone https://github.com/htr-tech/bash2mp4
-    https://github.com/tingirifistik/Enough-Reborn
+    git clone https://github.com/tingirifistik/Enough-Reborn
 
 }
 downloadPackage
